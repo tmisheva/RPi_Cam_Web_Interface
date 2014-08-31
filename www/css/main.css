@@ -1,0 +1,16 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.navbar-brand {
+  background: #000;
+}
+.navbar-brand img {
+  margin-top: -4px;
+}
+.navbar-brand .text-danger {
+  color: #ff0c40;
+}
+.navbar-brand .text-success {
+  color: #76a928;
+}
