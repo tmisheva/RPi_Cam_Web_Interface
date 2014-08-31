@@ -14,3 +14,7 @@ body {
 .navbar-brand .text-success {
   color: #76a928;
 }
+.panel {
+  overflow: auto;
+  height: 404px;
+}
