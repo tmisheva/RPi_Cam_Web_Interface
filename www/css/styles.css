@@ -7853,7 +7853,13 @@ body {
 .navbar-brand .text-success {
   color: #76a928;
 }
-.panel {
+legend {
+  font-size: 15px;
+}
+.panel .panel-body {
   overflow: auto;
-  height: 404px;
+  height: 360px;
+}
+.slider.slider-horizontal {
+  width: 100%;
 }
